@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cmake_aa.dir/tmp1.cpp.o -o cmake_aa 
